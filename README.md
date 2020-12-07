@@ -1,5 +1,5 @@
-# note-taker
-    Note Taker
+# Note-Taker
+    
 
 ## Table of Contents
 * [Installation Instructions](#Installation-Instructions)

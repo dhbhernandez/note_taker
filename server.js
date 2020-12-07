@@ -2,7 +2,7 @@
 const express = require("express");
 const fs = require("fs");
 
-// server application at port 
+// server application port 
 const app = express();
 const PORT = process.env.PORT || 4800;
 
@@ -16,8 +16,6 @@ app.use(express.static("public"));
 // Included js files
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
-
-
 
 // Add listener
 app.listen(PORT, function() {

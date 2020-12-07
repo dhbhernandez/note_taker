@@ -1,5 +1,4 @@
 const path = require("path");
-
 module.exports = function(app){
     
     // Route to go to notes.html

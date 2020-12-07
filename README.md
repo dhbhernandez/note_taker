@@ -1,5 +1,4 @@
 # note-taker
- # title
     Note Taker
 
 ## Table of Contents

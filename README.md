@@ -12,10 +12,11 @@
 ## Description 
 create a note taker that saves data on a server run by Heroku.
 ## Installation Instructions
+[Heroku App](https://note-taker-diego.herokuapp.com/)
 Locally you can run it on the node.js console node server.js
 
 ## Usage 
-[![Watch the video](https://i.imgur.com/BJ4I5HB.png)](https://youtu.be/EfjRpVupSbE)
+[![Watch the video](https://i.imgur.com/BJ4I5HB.png)](https://youtu.be/4lq00U6fP08)
 
 ## Contribution Guideline
 Diego Hernandez

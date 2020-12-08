@@ -14,8 +14,8 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // Included js files
-require("./routes/apiRoutes")(app);
-require("./routes/htmlRoutes")(app);
+require("./Routes/apiRoutes")(app);
+require("./Routes/htmlRoutes")(app);
 
 // Add listener
 app.listen(PORT, function() {

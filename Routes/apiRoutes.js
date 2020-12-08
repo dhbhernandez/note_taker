@@ -7,12 +7,12 @@ module.exports = function (app) {
     app.get("/api/notes", function (req, res) {
     res.json(data);
     });
-// get method to return all notes
+// get method to return all notes.
     app.get("/api/notes/:id", function (req, res) {
     res.json(data[Number(req.params.id)]);
 
     });
-//  POST method to add notes
+//  POST method to add notes.
     app.post("/api/notes", function (req, res) {
 
 let newNote = req.body;
